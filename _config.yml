@@ -1,11 +1,11 @@
 # Site settings
 author: Sara Garza
-title: 
+title: Lone Star Coder
 header-img: img/home-bg.png
 email: sjgarza22@gmail.com
 copyright_name: Sara Garza
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My Trail to Becoming a Software Developer
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: sjgarza22
 github_username:  sjgarza22
